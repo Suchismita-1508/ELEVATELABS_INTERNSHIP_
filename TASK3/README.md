@@ -1,80 +1,124 @@
+# 📊 Customer Personality Analysis Using SQL
 
 
-📊 SQL Data Analysis – Ecommerce Sales Dataset
 
-📌 Overview
+## 📌 Overview
 
-This project was completed as part of my Data Analyst Internship at Elevate Labs. The objective was to analyze an Ecommerce Sales dataset using SQL and extract meaningful business insights through queries.
+This project was completed as part of my **Data Analyst Internship at Elevate Labs**.
 
-🎯 Objectives
+The objective was to analyze the **Customer Personality Analysis Dataset** using SQL to extract valuable business insights through filtering, aggregation, sorting, and analytical queries.
 
-* Retrieve and filter data using SELECT and WHERE
-* Sort records using ORDER BY
-* Group data using GROUP BY
-* Calculate KPIs with aggregate functions (SUM, AVG, COUNT)
-* Perform data analysis using SQL queries
-* Generate business insights from sales data
+---
 
-🛠️ Tools & Technologies
+## 🎯 Objectives
 
-* MySQL
-* SQL
-* Ecommerce Sales Dataset
+- Analyze customer data using SQL
+- Perform filtering and sorting operations
+- Calculate business KPIs
+- Generate customer insights
+- Practice SQL for real-world data analysis
 
-📂 Dataset
+---
 
-* Dataset: Ecommerce Sales Dataset (CSV)
+## 🛠️ Tools & Technologies
 
-📈 SQL Concepts Used
+- MySQL
+- SQL
+- Microsoft Excel
+- MySQL Workbench
 
-* SELECT
-* WHERE
-* ORDER BY
-* GROUP BY
-* HAVING
-* COUNT()
-* SUM()
-* AVG()
-* MIN()
-* MAX()
-* LIMIT
-* Aliases (AS)
+---
 
-📊 Business Insights
+## 📂 Dataset
 
-* Identified total sales and order count.
-* Calculated average sales value.
-* Analyzed sales by category and region.
-* Found top-performing products.
-* Ranked customers based on purchase value.
-* Filtered high-value transactions.
-* Generated summary reports using aggregate functions.
+**Customer Personality Analysis.xlsx**
 
-📁 Repository Structure
+The dataset contains customer demographic and purchasing information, including:
 
-SQL-Data-Analysis/
-│── Dataset/
-│   └── Ecommerce_Sales.csv
-│── SQL_Queries.sql
-│── Screenshots/
-│── README.md
+- Income
+- Education
+- Marital Status
+- Age
+- Spending
+- Product Purchases
+- Campaign Responses
+- Customer Complaints
 
-🚀 How to Run
+---
 
-1. Import the Ecommerce Sales dataset into MySQL.
-2. Create the required database and table.
-3. Execute the queries from SQL_Queries.sql.
-4. Review the outputs and insights.
+## 📁 Repository Structure
 
-📚 Learning Outcomes
+```
+TASK3/
+│── Customer Personality Analysis.xlsx
+│── Description.docx
+│── MainScript.sql
+│── SQL SS.pdf
+│── SocialMediaTrendsDashboard.pbix
+└── README.md
+```
 
-* Improved SQL querying skills.
-* Learned data filtering and sorting techniques.
-* Performed aggregation and summary analysis.
-* Extracted actionable insights from business data.
-* Strengthened practical data analysis skills using SQL.
+---
 
-👨‍💻 Author
+## 📜 Files Description
 
-Suchsimita Sahoo
+| File | Description |
+|------|-------------|
+| Customer Personality Analysis.xlsx | Dataset used for SQL analysis |
+| MainScript.sql | SQL queries performed during Task 3 |
+| SQL SS.pdf | Screenshots of SQL query outputs |
+| Description.docx | Task description provided |
+| SocialMediaTrendsDashboard.pbix | Power BI dashboard file |
+| README.md | Project documentation |
 
+---
+
+## 📊 SQL Concepts Used
+
+- SELECT
+- WHERE
+- ORDER BY
+- GROUP BY
+- HAVING
+- COUNT()
+- SUM()
+- AVG()
+- MIN()
+- MAX()
+- LIMIT
+
+---
+
+## 📈 Key Insights
+
+- Customer distribution analysis
+- Average customer income
+- Product purchase trends
+- Campaign response analysis
+- Spending behavior
+- Customer segmentation
+- Aggregate business metrics
+
+---
+
+## 🚀 How to Run
+
+1. Open MySQL Workbench.
+2. Import the Customer Personality Analysis dataset.
+3. Execute the queries in `MainScript.sql`.
+4. Compare the results with the screenshots in `SQL SS.pdf`.
+
+---
+
+## 🎓 Learning Outcomes
+
+- Improved SQL querying skills
+- Learned business data analysis techniques
+- Applied aggregate functions and grouping
+- Extracted actionable insights from customer data
+
+---
+
+## 👨‍💻 Author
+
+**SUCHISMITA**
