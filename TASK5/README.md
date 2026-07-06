@@ -20,7 +20,7 @@ The objective is to perform **Exploratory Data Analysis (EDA)** on the Titanic d
 
 ## 📂 Project Files
 
-- `Task5_EDA_Mr_A.ipynb` – Complete EDA notebook
+- `Task5_EDA.ipynb` – Complete EDA notebook
 - `README.md` – Project documentation
 
 ---
